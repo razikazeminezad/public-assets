@@ -1,11 +1,5 @@
 [
   {
-    "name": "WhatsApp",
-    "nameFa": "واتس اپ",
-    "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/WhatsApp.svg",
-    "contact_link": "https://wa.me/your-number"
-  },
-  {
     "name": "Telegram",
     "nameFa": "تلگرام",
     "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/Telegram.svg",
@@ -15,6 +9,6 @@
     "name": "Instagram",
     "nameFa": "اینستاگرام",
     "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/Instagram.png",
-    "contact_link": "https://www.instagram.com/projectv.official2"
+    "contact_link": "https://www.instagram.com/projectv.official"
   }
 ]
